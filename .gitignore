@@ -1,2 +1,4 @@
 ~$*
+*.gdoc
 *.tmp
+signed/
